@@ -26,6 +26,7 @@ I’m a soon‑to‑graduate BS in Data Science student at the University of Tol
 
 ### March Madness Prediction Model  
 **Description:** Developed a linear regression model in Python to predict March Madness winners based on rankings and statistical data. Maintained project on GitHub and iteratively improved model accuracy.
+
 **Key Technologies:** Python, Pandas, Scikit‑Learn  
 
 **Highlights:**  
@@ -36,6 +37,7 @@ I’m a soon‑to‑graduate BS in Data Science student at the University of Tol
 
 ### Galaxy Image Classification
 **Description:** Partnering with a postdoctoral researcher to develop a machine learning classifier (using Fastai/ConvNeXt-Tiny in Python) that categorizes galaxy images into nine classes.
+
 **Key Technologies:** Python, NumPy, Scikit-Learn, Fastai, Nvidia CUDA, PyTorch
 
 **Highlights:**  
@@ -47,6 +49,7 @@ I’m a soon‑to‑graduate BS in Data Science student at the University of Tol
 
 ### University Ranking Comparison
 **Description:** Midterm project in Data Visualization course using PowerBI to compare University of Toledo's ranking to schools 1 rank above, analyzing statistics to provide insights for improvement.
+
 **Key Technologies:** PowerBI
 
 **Highlights:**  
