@@ -10,30 +10,19 @@
 
 ## 🧑‍🎓 About Me
 
-I’m a soon‑to‑graduate BS in Data Science student at the University of Toledo, passionate about turning raw data into actionable insights. I’ve built end‑to‑end projects in Python and R, from data cleaning and exploratory analysis to machine learning model deployment.
+I’m a recent B.S. Data Science graduate from the University of Toledo, where I applied statistical modeling and machine learning techniques to real-world datasets. I’ve built end-to-end pipelines in Python and R—ranging from data ingestion and cleaning to model training, evaluation, and deployment. Passionate about extracting actionable insights, I’ve delivered projects in areas as diverse as sports analytics, astronomical image classification, and linear regressions.
 
 ---
 
 ## 🎓 Education
 
-- **B.S. in Data Science**, University of Toledo (Expected May 2025)  
+- **B.S. in Data Science**, University of Toledo
   – Relevant coursework: Statistical Modeling, Machine Learning, Data Visualization  
   – GPA: 3.64
 
 ---
 
 ## 🚀 Projects
-
-### March Madness Prediction Model  
-**Description:** Developed a linear regression model in Python to predict March Madness winners based on rankings and statistical data. Maintained project on GitHub and iteratively improved model accuracy.
-
-**Key Technologies:** Python, Pandas, Scikit‑Learn  
-
-**Highlights:**  
-- Achieved 2nd place accuracy compared to real results
-- Served as an excellent way to gain GitHub experience while working in a team
-  
-**Repository:** [MarchMadnessPredictor](https://github.com/pulsevan/MarchMadnessPredictor)
 
 ### Galaxy Image Classification
 **Description:** Partnering with a postdoctoral researcher to develop a machine learning classifier (using Fastai/ConvNeXt-Tiny in Python) that categorizes galaxy images into nine classes.
@@ -42,10 +31,22 @@ I’m a soon‑to‑graduate BS in Data Science student at the University of Tol
 
 **Highlights:**  
 - Optimized performance by engineering a custom PyTorch environment with Nvidia CUDA
-- Reduced runtime from 24 hours to 1 hour
+- Reduced training session runtime by approximateily 99%
+- Reduced full model classification runtime from 24 hours to 1 hour
 - Achieved 97% Accuracy
   
 **Repository:** [GalaxyClassifier](https://github.com/pulsevan/GalaxyClassifier)
+
+### March Madness Machine Learning Prediction Model  
+**Description:** Developed a linear regression model in Python to predict NCAA March Madness winners based on rankings and statistical data. Maintained project on GitHub and iteratively improved model accuracy.
+
+**Key Technologies:** Python, Pandas, Scikit‑Learn  
+
+**Highlights:**  
+- Achieved 2nd place accuracy compared to real results
+- Version-controlled code with Git; collaborated via GitHub issues
+  
+**Repository:** [MarchMadnessPredictor](https://github.com/pulsevan/MarchMadnessPredictor)
 
 ### University Ranking Comparison
 **Description:** Midterm project in Data Visualization course using PowerBI to compare University of Toledo's ranking to schools 1 rank above, analyzing statistics to provide insights for improvement.
@@ -73,7 +74,7 @@ I’m a soon‑to‑graduate BS in Data Science student at the University of Tol
 
 ### Operations Manager @ Howard's Meats (May 2017-Present)  
 - Manage daily operations and supervised staff to ensure efficient workflows.
-- Maintain inventory levels and optimized stock management.
+- Streamline inventory tracking using Excel, reducing stock discrepencies
 - Provide excellent customer service to retail and wholesale buyers.
 
 ---
@@ -81,18 +82,13 @@ I’m a soon‑to‑graduate BS in Data Science student at the University of Tol
 ## 📫 Contact
 
 - 📧 [evnpul@gmail.com][email]  
-- 🔗 [LinkedIn Profile][linkedin]  
-
----
-
-## 📑 License
-
-This portfolio and its contents are released under the [MIT License](LICENSE).
+- 🔗 [LinkedIn Profile][linkedin]
+- 🔗 [GitHub Profile][github]  
 
 ---
 
 <!--[badge definitions]-->
-[badge-github]: https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=githu
+[badge-github]: https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github 
 [badge-linkedin]: https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin  
 [badge-email]: https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=social&logo=gmail  
 [github]: https://github.com/pulsevan 
