@@ -87,6 +87,12 @@ I’m a recent B.S. Data Science graduate from the University of Toledo, where I
 
 ---
 
+## 📑 License
+
+This portfolio and its contents are released under the [MIT License](LICENSE).
+
+---
+
 <!--[badge definitions]-->
 [badge-github]: https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github 
 [badge-linkedin]: https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin  
