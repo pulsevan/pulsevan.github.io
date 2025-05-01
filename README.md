@@ -17,7 +17,9 @@ I’m a recent B.S. Data Science graduate from the University of Toledo, where I
 ## 🎓 Education
 
 - **B.S. in Data Science**, University of Toledo
-  – Relevant coursework: Statistical Modeling, Machine Learning, Data Visualization  
+  
+  – Relevant coursework: Statistical Modeling, Machine Learning, Data Visualization, Predictive Modeling
+  
   – GPA: 3.64
 
 ---
