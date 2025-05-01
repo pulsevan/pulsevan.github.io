@@ -1,6 +1,6 @@
 # Evan Puls
 
-> Data Science Student | Machine Learning Enthusiast
+> Data Science Graduate | Machine Learning Enthusiast
 
 [![LinkedIn][badge-linkedin]][linkedin]  
 [![Email][badge-email]][email]  
