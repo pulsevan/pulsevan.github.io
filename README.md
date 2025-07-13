@@ -20,7 +20,7 @@ I’m a recent B.S. Data Science graduate from the University of Toledo, where I
   
   – Relevant coursework: Statistical Modeling, Machine Learning, Data Visualization, Predictive Modeling
   
-  – GPA: 3.64
+  – GPA: 3.68
 
 ---
 
